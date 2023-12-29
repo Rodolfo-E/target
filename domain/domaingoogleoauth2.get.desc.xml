@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Hola DomainGoogleAuthWS</shortname>
+	<description>Hola DomainGoogleAuthWS</description>
+	<url>/domain/domaingoogleoauth2/</url>
+	<authentication>none</authentication>
+	<format default="json">any</format>
+</webscript>
